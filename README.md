@@ -1,3 +1,3 @@
-# Conversational-AI
+# ProximityPicks
 
-This repo contains a python based chatbot built using pytorch integrated with a neo4j graph database
+ProximityPicks is a location based shop aggregator application, where a user can browse restaurants, retail stores etc., based on the location.
